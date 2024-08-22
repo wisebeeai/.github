@@ -1,10 +1,6 @@
 ## Looking for pollen ?
 
-🐝 Welcome to WiseBee
-
-🌈 Please check on slack `#tech` before adding a new repo.
-
-👩‍💻 Check our `template-backend` repo
+🐝 Welcome to the bee world
 
 ## Bee Gees
 
